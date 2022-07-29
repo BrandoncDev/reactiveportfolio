@@ -1,0 +1,10 @@
+Brandon is a 17 year old high school student and avid video game enjoyer who also happens to be a self taought deceloper.
+Finding his love for programing and computers at age 11 in 5th grade he began his new found pasion
+learning html and css while being mostly incosistaint, across 6 years he managed to learn the basics of many languages 
+such as html, css, javascript, python, the c family including c, c# and c++, and ruby, he found he much preferd web 
+development, using the first three he learned, html, css, and javascript. Now a devoted web developer looking to further 
+his abilities hes succumb to the horros of being a full stack developer and taking his career to the next level
+
+Brandon is a 17 year old high school student who loves computers and all things about them, weatehr its taking apart
+and building his own, making the softwear the he uses, or just playing games, his #1 pasion and love has to do with
+the great feats of technology
