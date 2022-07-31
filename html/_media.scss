@@ -1,0 +1,11 @@
+@media  screen and (max-width: 600px) {
+    header{
+        padding: 0 !important;
+    }
+    header .right-header{
+        padding: 2rem !important;
+    }
+    .controlls{
+        display: none  ;
+    }
+}
